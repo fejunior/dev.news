@@ -1,0 +1,25 @@
+{
+  "name": "dev.news",
+  "version": "1.0.0",
+  "description": "Implementando um projeto dev.news",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fejunior/dev.news.git"
+  },
+  "author": "junonn fernando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fejunior/dev.news/issues"
+  },
+  "homepage": "https://github.com/fejunior/dev.news#readme",
+  "dependencies": {
+    "dev.news": "file:",
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
